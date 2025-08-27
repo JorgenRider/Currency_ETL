@@ -1,0 +1,12 @@
+# Файлы с данными
+subscribers.json
+*.json
+docker-compose.yml
+.env
+
+# AirFlow файлы
+airflow.cfg
+webserver_config.py
+*.pid
+logs/
+dags/__pycache__/
